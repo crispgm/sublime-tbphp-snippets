@@ -1,0 +1,8 @@
+<!-- Tieba_Service::call -->
+<snippet>
+    <content><![CDATA[
+Tieba_Service::call(${1:service}, ${2:method}, ${3:input});
+]]></content>
+    <tabTrigger>Tieba_Service</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

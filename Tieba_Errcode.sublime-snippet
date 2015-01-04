@@ -1,0 +1,9 @@
+<!-- Tieba_Errcode:: -->
+<snippet>
+    <content><![CDATA[
+Tieba_Errcode::${1:errno}
+]]></content>
+    
+    <tabTrigger>Tieba_Errcode</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
