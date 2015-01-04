@@ -1,0 +1,8 @@
+<!-- Tieba_Service::getArrayParams -->
+<snippet>
+    <content><![CDATA[
+Tieba_Service::getArrayParams(${1:input}, ${2:param});
+]]></content>
+    <tabTrigger>Tieba_Service::getArrayParams</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,17 @@
+<!-- comment header -->
+<snippet>
+    <content><![CDATA[
+/*
+ * Copyright (c) Baidu, Inc.
+ * All rights reserverd. 
+ *
+ * @author   David Zhang(zhangwanlong@baidu.com)
+ * @date     ${1:date}
+ * @abstract ${2:abstract}
+ *
+ */
+
+]]></content>
+    <tabTrigger>commentheader</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
