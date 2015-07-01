@@ -1,0 +1,8 @@
+<!-- Tieba_Tbs::check -->
+<snippet>
+    <content><![CDATA[
+Tieba_Tbs::check(${1:tbs},${2:isLogin});
+]]></content>
+    <tabTrigger>Tieba_Tbs::check</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

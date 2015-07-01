@@ -1,0 +1,8 @@
+<!-- Tieba_Tbs::gene -->
+<snippet>
+    <content><![CDATA[
+Tieba_Tbs::gene(${1:isLogin});
+]]></content>
+    <tabTrigger>Tieba_Tbs::gene</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

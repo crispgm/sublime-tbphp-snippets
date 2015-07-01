@@ -1,0 +1,8 @@
+<!-- Bingo_Page::setOnlyDataType -->
+<snippet>
+    <content><![CDATA[
+Bingo_Page::setOnlyDataType(${1:dataType});
+]]></content>
+    <tabTrigger>Bingo_Page::setOnlyDataType</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
